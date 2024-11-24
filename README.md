@@ -1,2 +1,9 @@
-# magic-8-ball
-A foul-mouthed Magic 8 Ball!
+# Magic 8 Ball
+
+## An Arduino-based foul-mouthed Magic 8 Ball!
+
+### Parts Needed:
+- Arduino Nano
+- 0.91 Inch I2C OLED Display Module
+- 2-pin momentary push button switch
+- 10kΩ resistor
