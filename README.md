@@ -9,4 +9,4 @@
 - 10kΩ resistor
 
 ### Schematic
-[Magic 8 Ball Schematic](/hardware/schematic.png)
+![Magic 8 Ball Schematic](/hardware/schematic.png)
